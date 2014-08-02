@@ -31,6 +31,8 @@ public class MainListActivity extends Activity{
 	
 	FrameLayout content;
 	
+	// 되라되라
+	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub

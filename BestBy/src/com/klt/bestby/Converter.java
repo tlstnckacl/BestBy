@@ -8,7 +8,7 @@ public class Converter {
 	
 	public static float toPX_X(float emulPX, Activity a) {
 		float px = emulPX;
-		
+		// abcd
 		// 기기 화면 해상도
 		DisplayMetrics dm = new DisplayMetrics();
 		a.getWindowManager().getDefaultDisplay().getMetrics(dm);
