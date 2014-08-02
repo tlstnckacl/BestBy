@@ -32,7 +32,7 @@ public class MainListActivity extends Activity{
 	FrameLayout content;
 	
 	// 되라되라
-	
+	// ssoogoon : 응답했다 오바
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
